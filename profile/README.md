@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"><span style="color:#00FFFF;">Hiderox Technologies</span></h1>
-<h3 align="center">🕶️ Cyberpunk Privacy-as-a-Service • Digital Sovereignty • Terminal Spirit</h3>
+<h3 align="center">🕶️ Privacy-as-a-Service • Digital Sovereignty • Terminal Spirit</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Operational-00ffcc?style=flat-square" />
