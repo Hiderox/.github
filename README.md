@@ -1,89 +1,79 @@
-# Hiderox Technologies
+<p align="center">
+  <img src="https://ik.imagekit.io/7whcdvhbv/logo.png" width="150" alt="Hiderox Logo"/>
+</p>
 
-**Website:** [hiderox.com](https://hiderox.com)  
-**Industry:** Privacy-as-a-Service (PaaS)  
-**Location:** Global | Remotely Operated  
-**Status:** Bootstrapped and Founder-led  
+<h1 align="center"><span style="color:#00FFFF;">Hiderox Technologies</span></h1>
+<h3 align="center">🕶️ Cyberpunk Privacy-as-a-Service • Digital Sovereignty • Terminal Spirit</h3>
 
----
-
-## 🕵️ About Hiderox
-
-**Hiderox** is a Privacy-as-a-Service agency dedicated to empowering individuals and businesses with the tools, infrastructure, and advisory they need to operate with complete digital autonomy.
-
-We specialize in **privacy-first digital solutions**, ensuring our clients remain secure, untraceable, and independent in an increasingly monitored world.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Operational-00ffcc?style=flat-square" />
+  <img src="https://img.shields.io/badge/Main%20Tool-HideraX%20CLI%20Wallet-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Theme-Cyberpunk-ed1cff?style=flat-square" />
+</p>
 
 ---
 
-## 🧩 What We Offer
-
-### 🔐 Digital Privacy Infrastructure
-- Encrypted email & domain setups
-- Anonymous hosting and DNS management
-- Decentralized identity integration
-
-### 🏦 Financial & Legal Privacy
-- Offshore LLC & foundation formations
-- Private multi-signature wallet setups
-- Treasury management consulting
-
-### 💻 Security Stack
-- Cold storage wallet configurations (air-gapped)
-- HSM integrations for enterprise clients
-- Threat monitoring & incident response
-
-### 👤 OpSec Advisory
-- Personal privacy strategy sessions
-- Risk modeling & threat intelligence
-- Anti-surveillance training
+> “When privacy is outlawed, only outlaws will have privacy.”  
+> _— Hiderox Manifest_
 
 ---
 
-## 🎯 Who We Serve
 
-We work exclusively with:
-- Crypto founders & DAOs  
-- Independent researchers & whistleblowers  
-- Adult creators and privacy-conscious influencers  
-- Dissidents and individuals in high-risk environments  
-- Newsletter creators & digital nomads  
+## 🌌 Welcome to the Underground
 
----
+**Hiderox** is a next-gen Privacy-as-a-Service collective.  
+We don’t advertise. We encrypt.  
+We don’t pivot. We deploy.
 
-## 🚀 Our Vision
-
-> _"In a world that rewards transparency, we empower sovereignty."_  
-At Hiderox, we believe privacy isn't a luxury — it's a fundamental right. We're here to protect the builders, thinkers, and rebels who need it most.
+Our mission? To empower **builders, dissidents, creators, and outlaws** with tools that preserve their **freedom**, **identity**, and **digital fire**.
 
 ---
 
-## 📦 Repository Purpose
+## 🛠️ Our Stack of Shadows
 
-This GitHub repository serves as a central hub for:
-- Public-facing tools & utilities
-- Documentation for our clients and contributors
-- Deployment scripts and privacy modules
-- Code examples and tutorials
-
----
-
-## 🤝 Collaborate With Us
-
-Want to contribute, partner, or get in touch?
-
-📫 **Email:** `info@hiderox.com`  
-🔗 **LinkedIn:** [linkedin.com/company/hiderox](https://linkedin.com/company/hiderox-technologies)  
-🧑‍💻 **Founder:** Saad ([@cyox2](https://github.com/Cyber-Dioxide))
+| Service Layer | Description |
+|---------------|-------------|
+| 🛡️ **Legal Camouflage** | Anonymous offshore LLCs, foundations, trusts |
+| 🔐 **Financial Obfuscation** | Multi-sig, cold storage, HSM, private flows |
+| 📡 **Infra Hardening** | DNS cloaking, encrypted mail, self-hosted deploys |
+| 🧠 **OpSec Doctrine** | Threat modeling, leak proofing, situational playbooks |
 
 ---
 
-## 🛡️ Disclaimer
+## 🚀 Hiderox Labs
 
-This project is built with privacy, ethics, and legality in mind. **We do not support any illegal activity.** Hiderox exists to empower lawful privacy practices and uphold digital sovereignty for everyone.
+> Small scripts. Big paranoia. Ultimate control.
+
+### 🎛️ `HideraX`
+A CLI-based wallet built for cyber nomads.  
+Supports:
+- Wallet creation & recovery
+- BTC/ETH address generation
+- Offline signing (air-gapped ready)
+
+> 🧪 More tools are in stealth mode. Stay tuned.
 
 ---
 
-## 🌐 License
+## 🔌 Connect with the Node
 
-MIT License — open to community contribution, closed to surveillance.
+🌐 [hiderox.com](https://hiderox.com)  
+📧 [info@hiderox.com](mailto:info@hiderox.com)  
+🐙 [github.com/Hiderox](https://github.com/Hiderox)  
+👤 Founder: Saad ([@Cyber-Dioxide](https://github.com/Cyber-Dioxide))  
+🔗 [LinkedIn](https://linkedin.com/company/hiderox-technologies)
 
+---
+
+## 🔐 Statement
+
+> _We are not a tool for evasion. We are a tool for survival._  
+Everything here is built for lawful privacy and informational freedom.
+
+---
+
+<p align="center">
+  <img src="https://ik.imagekit.io/7whcdvhbv/logo.png" width="100" />
+  <br/>
+  <i>Built for ghosts, by ghosts.</i>
+</p>
